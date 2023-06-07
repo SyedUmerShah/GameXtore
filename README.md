@@ -1,1 +1,1 @@
-gamextore.netlify.app
+https://gamextore.netlify.app/
